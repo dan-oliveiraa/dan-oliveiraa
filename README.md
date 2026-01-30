@@ -1,114 +1,80 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel! 👋
 
-**Software Engineer specialized in Flutter & Kotlin**, building **high-reliability mobile systems** where precision, performance, and resilience are non-negotiable.
-
-🇧🇷 Based in Brazil  
-🌍 Working on large-scale payment & transport systems across South America
+I'm a **Software Engineer** from Brazil 🇧🇷  
+Focused on **Flutter, Kotlin, Payments & High-Reliability Mobile Systems**
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-I’m a Software Engineer with **4+ years of experience** designing and delivering **mission-critical mobile applications**, especially in **fintech, payments, and offline-first environments**.
-
-I currently work on **payment and validation systems used daily by millions of users in over 400 cities**, where performance, security, and fault-tolerance directly impact real-world operations.
-
-I’m especially interested in:
-- Clean & scalable architectures
-- Payments and financial flows
-- Offline-first systems
-- Performance optimization
-- Engineering clarity and long-term maintainability
+- 📱 Mobile Engineer specialized in **Flutter & Kotlin**
+- 💳 Working with **payments, NFC/Mifare, QR Code and Digital Wallets**
+- 🧠 Strong focus on **Clean Architecture, Hexagonal (Ports & Adapters) and MVVM**
+- 🚀 Experience building **offline-first systems** used by millions of users
+- 🤝 I enjoy teamwork, mentoring, and solving complex real-world problems
 
 ---
 
-## 🚀 Impact Highlights
+## 🛠 Programming Languages & Tools
 
-- ⚡ **Performance**  
-  Optimized NFC / Mifare validation routines, reducing latency by **75%** (from ~12.5s to ~3.1s) in high-traffic transport systems.
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 
-- 🔐 **Security & ROI**  
-  Identified and patched critical payment handshake vulnerabilities, preventing fraud and saving **R$300K+** in potential losses.
+<br/><br/>
 
-- 💳 **Digital Wallets (Offline-First)**  
-  Designed and launched an **ABT Digital Wallet** with **Pix, Apple Pay, and Google Pay**, now live in **10+ major Brazilian cities**.
+<!-- Backend / Infra -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
 
-- 🤖 **Execution Velocity (AI-Assisted)**  
-  Integrated AI-driven workflows and knowledge-retrieval pipelines, delivering features **~3× faster** without compromising quality.
+<br/><br/>
 
-- 🧱 **Engineering Efficiency**  
-  Led large-scale refactors using Clean Architecture and SOLID principles, cutting feature delivery and bug-fix time by ~50%.
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-222222?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge)
 
 ---
 
-## 🛠 Core Technical Skills
+## 💳 Payments & Transport Systems
 
-**Languages**
-- Dart
-- Kotlin
-- Python (automation & tooling)
-
-**Mobile & Architecture**
-- Flutter (BLoC, MVVM)
-- Clean Architecture, Hexagonal Architecture (Ports & Adapters)
-- SOLID, DRY, Design Patterns
-
-**Payments & Transport**
-- Debit / Credit
+- Debit & Credit cards
 - Pix & QR Code
-- NFC / Mifare
+- Apple Pay & Google Pay
+- NFC / Mifare (public transport validation)
 - Acquirer integrations (Cielo, ADIQ, Dock, Sigo)
-
-**Infrastructure & Tooling**
-- Method Channels (Flutter ↔ Kotlin)
-- CI/CD (Azure DevOps)
-- Automated Testing (Unit, Integration, UI)
-- Appium + Robot Framework
 
 ---
 
 ## 🧪 Testing & Quality
 
-- Unit, Widget, and Integration Tests (Mocktail)
-- Automated UI testing
-- Strong focus on testable architectures and isolation of side effects
+- Unit, Widget and Integration Tests
+- Mocktail
+- Automated UI tests (Appium + Robot Framework)
+- CI/CD with Azure DevOps
 
 ---
 
-## 📚 Currently Studying
+## 📚 Currently studying
 
-- 🇫🇷 French (professional growth & internationalization)
-- 🧠 Advanced architecture patterns & system design
-- 🤖 AI-assisted development workflows
-
----
-
-## 🧩 Study Projects & Labs
-
-This GitHub contains:
-- **Architecture labs** (Clean, Hexagonal, MVVM, DDD)
-- **Flutter & Kotlin experiments**
-- **Performance & reliability studies**
-- **AI-assisted development prototypes**
-
-Each project is documented with a focus on **engineering decisions**, not just code.
+![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-333333?style=for-the-badge)
+![AI Assisted Development](https://img.shields.io/badge/AI%20Assisted%20Development-6F42C1?style=for-the-badge)
 
 ---
 
 ## 🌐 Languages
 
-- Portuguese — Native  
-- English — Full Professional  
-- French — Limited Working  
+- 🇧🇷 Portuguese — Native  
+- 🇺🇸 English — Full Professional  
+- 🇫🇷 French — Limited Working  
 
 ---
 
-## 📫 Contact
+## 🔗 Social
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-oliveira-40a401169)
-- 🧑‍💻 GitHub: https://github.com/dan-oliveiraa
-- 📧 Email: dan.vinhedo@hotmail.com
-
----
-
-> *I enjoy working with complex systems, clear boundaries, and teams that care about building things the right way — not just fast, but sustainably.*
+- 🧑‍💻 [GitHub](https://github.com/dan-oliveiraa)
