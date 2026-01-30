@@ -14,28 +14,25 @@ Focused on **Flutter, Kotlin, Payments & High-Reliability Mobile Systems**
 - 🤝 I enjoy teamwork, mentoring, and solving complex real-world problems
 
 ---
-
 ## 🛠 Programming Languages & Tools
 
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-
-<br/><br/>
-
-<!-- Backend / Infra -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
-
-<br/><br/>
+<p>
+  <img src="https://via.placeholder.com/60x1/00000000/00000000" alt="" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-222222?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-3F51B5?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-009688?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-5C6BC0?style=for-the-badge)
+![GoRouter](https://img.shields.io/badge/GoRouter-4285F4?style=for-the-badge)
 
 ---
 
@@ -63,6 +60,7 @@ Focused on **Flutter, Kotlin, Payments & High-Reliability Mobile Systems**
 ![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-333333?style=for-the-badge)
 ![AI Assisted Development](https://img.shields.io/badge/AI%20Assisted%20Development-6F42C1?style=for-the-badge)
+![Kotlin Compose](https://img.shields.io/badge/Kotlin%20Compose-7F52FF?style=for-the-badge&logo=kotlin)
 
 ---
 
